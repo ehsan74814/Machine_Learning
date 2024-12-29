@@ -8,7 +8,3 @@
 ### Feel free to explore the contents of this repository to reinforce your understanding of deeplearning concepts discussed in the course. You can clone or download the code, experiment with it, and adapt it to your own projects.
 
 
-heloo 
-
-lksdfhks
-hgjfdh
