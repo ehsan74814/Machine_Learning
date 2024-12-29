@@ -5,6 +5,6 @@
 ### Including machine learning roadmap such as preprocessing steps, model selection, Exercises, Codes and so on...
 
 # How to Use
-### Feel free to explore the contents of this repository to reinforce your understanding of deeplearning concepts discussed in the course. You can clone or download the code, experiment with it, and adapt it to your own projects.
+### Feel free to explore the contents of this repository to reinforce your understanding of machinelearning concepts discussed in the course. You can clone or download the code, experiment with it, and adapt it to your own projects.
 
 
